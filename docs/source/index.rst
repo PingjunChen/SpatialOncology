@@ -1,15 +1,7 @@
 Welcome to SpatialOncology's documentation!
 ===========================================
 
-This documentations contains the resources for multiplexed single-cell spatial analysis.
-
-.. _cytometry-tutorial:
-
-.. toctree::
-   :maxdepth: 2
-   :caption: Cytometry Analysis Tutorial
-
-   cytometry_tutorial
+This documentation contains materials for single-cell spatial oncology analysis.
 
 .. _data-transformation:
 
