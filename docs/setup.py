@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(name="Spatial Oncology",
       version="1.0.0",
-      description="Multiplexed Single-Cell Spatial Analysis",
+      description="Single-Cell Spatial Oncology Analysis",
       long_description="",
       author="Pingjun Chen",
       author_email="pingjunchen@ieee.org",
